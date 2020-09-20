@@ -1,0 +1,8 @@
+{
+    "http://localhost:5000/api/profile/addComment": "add comment page",    
+    "http://localhost:5000/api/profile/bio": "bio change page (add image, name, private name, about me)",
+    "http://localhost:5000/api/auth/login": "login page",
+    "http://localhost:5000/api/auth/register": "registration page",
+    "http://localhost:5000/api/profile": "profile page (render comments list)"
+}
+
